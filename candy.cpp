@@ -1,5 +1,6 @@
 #include<iostream>
-#include<bits/stdc++.h>
+#include<vector>
+
 using namespace std;
 int candy(vector<int>& ar) {
     int n= ar.size();
